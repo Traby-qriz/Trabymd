@@ -59,7 +59,7 @@ Join our WhatsApp support group for assistance and discussions!
 # <a href="https://wasimd-9dedcea2edba.herokuapp.com/"><img title="koyeb" src="https://img.shields.io/badge/DEPLOY ON KYOEB-h?color=green&style=for-the-badge&logo=msi"></a>
 ### 𝕋ℍ𝔸ℕ𝕂𝕊 𝕋𝕆
  [`ASTROPED FOR PLUGINS `](https://github.com/astroped)
-  [`ibrahim-tech-for-help`](https://github.com/ibrahimaitech)
+  [`casper-tech-for-help`](https://github.com/Traby-qriz)
   
 
 
