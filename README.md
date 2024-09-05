@@ -1,6 +1,6 @@
 <p align="center">  
   <a href="https://whatsapp.com/channel/0029VacVIGP9hXF6X0OjH71s">
-    <img alt="traby" height="300" src="https://telegra.ph/file/c4221591d27bb38b9b966.jpg">
+    <img alt="traby" height="300" src="./wasi.png">
     <h1 align="center">TRABY MD V2</h1>
   </a>
 </p>
